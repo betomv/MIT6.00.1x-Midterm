@@ -9,4 +9,4 @@ def general_poly (L):
         for i in L:
             num = x*num + i
         return num
-    return f(x)
+    return f
